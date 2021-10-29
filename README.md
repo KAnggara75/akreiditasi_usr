@@ -1,2 +1,1 @@
-# Akreditasi_usr
-File Akreiditasi Universitas Islam Negeri Sultan Syarif Kasim Riau
+# File Akreditasi Universitas Islam Negeri Sultan Syarif Kasim Riau
